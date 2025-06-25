@@ -13,5 +13,3 @@ A collection of 200+ Python problems solved with clean and well-documented code.
 - `class` – object-oriented examples
 - `regex` – regular expressions
 - `numpy`, `pandas` – essential data analysis tools
-
-This repository, including the problem set and overall idea, is not originally mine, it was inspired by work from @Moado. However, I've written and included my own solutions throughout.
